@@ -90,7 +90,7 @@ We are actively building the future of **multi-agent AI systems**, and we welcom
 
 ## 🌍 Connect With Us
 
-- **Documentation:** [docs.praison.ai](https://p-doc.vercel.app)
+- **Documentation:** [docs.praisonlabs.com](https://docs.praisonlabs.com)
 - **GitHub:** [Contribute on GitHub](https://github.com/Praison-Labs/Praison)
 
 ---
