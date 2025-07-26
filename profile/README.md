@@ -1,6 +1,6 @@
 # PraisonLabs - Pioneering Multi-Agent AI Innovation
 
-![PraisonLabs Logo](./logo_dark.png)
+![PraisonLabs Logo](./praison_logo_wide.png)
 
 ## About PraisonLabs
 
