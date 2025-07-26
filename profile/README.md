@@ -1,10 +1,10 @@
-# Praison AI - Pioneering Multi-Agent AI Innovation
+# PraisonLabs - Pioneering Multi-Agent AI Innovation
 
-![Praison AI Logo](./logo_dark.png)
+![PraisonLabs Logo](./logo_dark.png)
 
-## About Praison AI
+## About PraisonLabs
 
-Praison AI is a cutting-edge research and development hub focused on the intersection of **artificial intelligence (AI) and autonomous agent systems**. We specialize in creating **intelligent, self-reflective AI agents** that collaborate to solve complex challenges, automate workflows, and enhance decision-making processes. Our mission is to push the boundaries of AI automation through advanced multi-agent frameworks, providing powerful and **accessible AI solutions** for businesses and developers.
+PraisonLabs is a cutting-edge research and development hub focused on the intersection of **artificial intelligence (AI) and autonomous agent systems**. We specialize in creating **intelligent, self-reflective AI agents** that collaborate to solve complex challenges, automate workflows, and enhance decision-making processes. Our mission is to push the boundaries of AI automation through advanced multi-agent frameworks, providing powerful and **accessible AI solutions** for businesses and developers.
 
 ## Our Vision
 
@@ -69,7 +69,7 @@ PraisonJS brings the power of **multi-agent AI systems** to JavaScript developer
 
 ---
 
-## 🔥 Why Choose Praison AI?
+## 🔥 Why Choose PraisonLabs?
 
 ### **🚀 Advanced Multi-Agent Systems**
 Our frameworks enable **complex AI agent interactions**, **self-reflection**, and **autonomous problem-solving** through sophisticated agent architectures.
@@ -95,4 +95,4 @@ We are actively building the future of **multi-agent AI systems**, and we welcom
 
 ---
 
-**Praison AI - Redefining the future of AI with intelligent multi-agent systems.** 
+**PraisonLabs - Redefining the future of AI with intelligent multi-agent systems.** 
