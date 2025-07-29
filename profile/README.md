@@ -20,7 +20,7 @@ We believe in a future where **AI agents work seamlessly together**, enabling au
 
 ## 🚀 Our Projects
 
-### [**Praison Framework - Multi-AI Agent System**](https://github.com/Praison-Labs/Praison)
+### [**Praison Framework - Multi-AI Agent System**](https://github.com/PraisonLabs/PraisonFramework)
 Praison is an advanced **production-ready Multi-AI Agents framework** with self-reflection capabilities. It enables the creation of intelligent agents that can **automate complex tasks**, **solve challenging problems**, and **collaborate effectively** with both humans and other AI agents.
 
 #### **Key Features:**
@@ -35,11 +35,11 @@ Praison is an advanced **production-ready Multi-AI Agents framework** with self-
 - **RAG Integration** – Advanced retrieval-augmented generation
 - **Async & Parallel Processing** – Efficient task execution
 
-[🔗 Explore Praison Framework](https://github.com/Praison-Labs/Praison)
+[🔗 Explore Praison Framework](https://github.com/PraisonLabs/PraisonFramework)
 
 ---
 
-### [**PraisonAgents - Lightweight Agent Library**](https://github.com/Praison-Labs/Praison)
+### [**PraisonAgents - Lightweight Agent Library**](https://github.com/PraisonLabs/PraisonLabsAgents)
 PraisonAgents is a **lightweight Python library** for creating and managing AI agents. It provides a simple interface for building **intelligent automation systems** and **multi-agent workflows**.
 
 #### **Key Features:**
@@ -50,11 +50,11 @@ PraisonAgents is a **lightweight Python library** for creating and managing AI a
 - **Structured Output** – Get consistent and reliable results
 - **LangChain Integration** – Leverage additional AI capabilities
 
-[🔗 Explore PraisonAgents](https://github.com/Praison-Labs/Praison)
+[🔗 Explore PraisonAgents](https://github.com/PraisonLabs/PraisonLabsAgents)
 
 ---
 
-### [**PraisonJS - JavaScript Agent Framework**](https://github.com/Praison-Labs/Praison)
+### [**PraisonJS - JavaScript Agent Framework**](https://github.com/PraisonLabs/PraisonJS)
 PraisonJS brings the power of **multi-agent AI systems** to JavaScript developers. It enables the creation of **intelligent web applications** and **automated workflows** using AI agents.
 
 #### **Key Features:**
@@ -65,7 +65,7 @@ PraisonJS brings the power of **multi-agent AI systems** to JavaScript developer
 - **Event-Driven Architecture** – Create responsive agent systems
 - **Cross-Platform Support** – Run agents anywhere JavaScript runs
 
-[🔗 Explore PraisonJS](https://github.com/Praison-Labs/Praison)
+[🔗 Explore PraisonJS](https://github.com/PraisonLabs/PraisonJS)
 
 ---
 
@@ -91,7 +91,7 @@ We are actively building the future of **multi-agent AI systems**, and we welcom
 ## 🌍 Connect With Us
 
 - **Documentation:** [docs.praisonlabs.com](https://docs.praisonlabs.com)
-- **GitHub:** [Contribute on GitHub](https://github.com/Praison-Labs/Praison)
+- **GitHub:** [Contribute on GitHub](https://github.com/PraisonLabs/Praison)
 
 ---
 
